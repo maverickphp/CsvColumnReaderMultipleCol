@@ -2,10 +2,10 @@ import csv
 import os
 
 # Set the path of the folder containing CSV files
-folder_path = 'C:/Users/Administrator/Desktop/CodewithMav/CsvColumnReaderMultipleCol/csv'
+folder_path = 'path/to/foldername/csv'
 
 # Set the output file name and path
-output_file_path = 'C:/Users/Administrator/Desktop/CodewithMav/CsvColumnReaderMultipleCol/output/output.csv'
+output_file_path = 'path/to/foldername/output/output.csv'
 
 # Create a set for each column to store unique data
 pos_set = set()
